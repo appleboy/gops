@@ -1,4 +1,4 @@
-module github.com/google/gops
+module github.com/appleboy/gops
 
 go 1.12
 
