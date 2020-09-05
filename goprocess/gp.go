@@ -11,7 +11,7 @@ import (
 
 	goversion "rsc.io/goversion/version"
 
-	"github.com/google/gops/internal"
+	"github.com/appleboy/gops/internal"
 	ps "github.com/keybase/go-ps"
 )
 

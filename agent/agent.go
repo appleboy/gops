@@ -25,7 +25,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/google/gops/internal"
+	"github.com/appleboy/gops/internal"
 	"github.com/google/gops/signal"
 )
 
